@@ -1,6 +1,11 @@
 # Windows password recovery for personal and educational use
-Here the tutorial how to bypass login password windows 10 (This for educational purpose only, do not use this method to illegal activity)
+Here the tutorial how to recovery password windows 10 (This for educational purpose only, do not use this method to illegal activity)
 
+>Disclaimer⚠️
+>
+>This guide is created for **educational purposes only** and to help users recover access to their own systems.  
+Do **not** use any of the methods described here on devices you do **not** own or have **explicit permission** to access.  
+I am **not responsible** for any misuse or damage resulting from the use of this information.
 
 ### LIST REQUIREMENT ITEMS
 1. Other Computer (to create bootable device)
@@ -90,5 +95,13 @@ Here the tutorial how to bypass login password windows 10 (This for educational 
   1. Run CMD as Administrator
   2. Type Copy C:\windows\system32\utilman.exe.bak C:\windows\system32\utilman.exe
   3. Restart the computer > and tried again ease of access
+
+
+>Disclaimer⚠️
+>
+>This guide is created for **educational purposes only** and to help users recover access to their own systems.  
+Do **not** use any of the methods described here on devices you do **not** own or have **explicit permission** to access.  
+I am **not responsible** for any misuse or damage resulting from the use of this information.
+
 
 
