@@ -1,4 +1,4 @@
-# Bypass-Windows-10
+# Windows password recovery for personal and educational use
 Here the tutorial how to bypass login password windows 10 (This for educational purpose only, do not use this method to illegal activity)
 
 
